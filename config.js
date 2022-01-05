@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Tỏ tình Crush",
-    introTitle: 'Tên người yêu bạn',
+    introTitle: 'Trần Nguyễn Trúc Linh',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
