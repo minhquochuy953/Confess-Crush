@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Tỏ tình Crush Cuteeeeeee",
-    introTitle: 'Crush',
+    titleWeb: "Tỏ tình Crush Cuteee",
+    introTitle: 'Thảo',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/470gaming' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
